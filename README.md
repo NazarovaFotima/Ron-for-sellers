@@ -1,2 +1,2 @@
-# Ron-for-sellers
-assisstant for sellers
+# learning
+learning
